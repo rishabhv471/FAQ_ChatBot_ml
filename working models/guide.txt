@@ -1,0 +1,21 @@
+writing this note on 21/04/2023
+
+this untitled5 model used gpu,
+used train data to train,
+used context ,ques, ans.
+this is file which is on drive 3711
+this file was also known as 18/04/23
+
+
+
+untitled6 is updated verison
+data is given what is required
+
+
+
+table_qa is wporking with csv files 
+
+
+
+
+table_qa is updated version of above
